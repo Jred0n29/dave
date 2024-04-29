@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="top">
+    <file>Imagenes/Cerrar.png</file>
+    <file>Imagenes/Maximizar.png</file>
+    <file>Imagenes/Menu.png</file>
+    <file>Imagenes/Minimizar.png</file>
+    <file>Imagenes/Restaurar.png</file>
+  </qresource>
+  <qresource prefix="center">
+    <file>Imagenes/Caja.png</file>
+    <file>Imagenes/cil-arrow-circle-left.png</file>
+    <file>Imagenes/cil-arrow-circle-right.png</file>
+    <file>Imagenes/cil-home.png</file>
+    <file>Imagenes/Clientes.png</file>
+    <file>Imagenes/Contabilidad.png</file>
+    <file>Imagenes/Estadistica.png</file>
+    <file>Imagenes/images.png</file>
+    <file>Imagenes/Insumos.png</file>
+    <file>Imagenes/unnamed.png</file>
+    <file>Imagenes/Vendedor.png</file>
+    <file>Imagenes/Ventas.png</file>
+  </qresource>
+</RCC>
