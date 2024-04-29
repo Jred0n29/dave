@@ -1,6 +1,6 @@
 ![dave](https://github.com/Jred0n29/dave/assets/69601528/f20d7988-2ef2-4a9a-8e20-74d9d4f96d44)
 
-## Dave - Gestión de Productos de Yogur
+## Dave - Gestión de Productos de Yogur (Mi primer proyecto - 2019)
 
 Dave es una aplicación de escritorio diseñada para simplificar la gestión completa de productos de yogur. Con una interfaz intuitiva y funciones versátiles, Dave facilita el control de contabilidad y distribución de manera precisa.
 
